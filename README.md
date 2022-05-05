@@ -1,2 +1,2 @@
 # primera_prueba
-prueba_como_novato_en_github
+prueba_como_en_github
